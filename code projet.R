@@ -16,7 +16,7 @@ library(explor)
 library(questionr)
 library(data.table)
 library(tidyverse)
-
+library(readxl)
 
 
 #importation de la base de données
